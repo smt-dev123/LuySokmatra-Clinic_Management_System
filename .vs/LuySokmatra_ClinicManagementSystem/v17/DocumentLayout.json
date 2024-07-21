@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\luysokmatra_clinicmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|solutionrelative:luysokmatra_clinicmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\luysokmatra_clinicmanagementsystem\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|solutionrelative:luysokmatra_clinicmanagementsystem\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmMedicineType1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LuySokmatra_ClinicManagementSystem\\FrmMedicineType1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\luysokmatra_clinicmanagementsystem\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|solutionrelative:luysokmatra_clinicmanagementsystem\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|c:\\users\\smt-cs\\desktop\\project\\c#\\luysokmatra_clinicmanagementsystem\\luysokmatra_clinicmanagementsystem\\classes\\clsdbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|solutionrelative:luysokmatra_clinicmanagementsystem\\classes\\clsdbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\luysokmatra_clinicmanagementsystem\\frmenterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|solutionrelative:luysokmatra_clinicmanagementsystem\\frmenterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\luysokmatra_clinicmanagementsystem\\frmenterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|solutionrelative:luysokmatra_clinicmanagementsystem\\frmenterdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\luysokmatra_clinicmanagementsystem\\frmroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|solutionrelative:luysokmatra_clinicmanagementsystem\\frmroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\luysokmatra_clinicmanagementsystem\\frmroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A986ABA0-0E6D-4E54-BE04-FD6781276A35}|LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem.csproj|solutionrelative:luysokmatra_clinicmanagementsystem\\frmroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,78 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClsDBHelper.cs",
-              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\Classes\\ClsDBHelper.cs",
-              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\Classes\\ClsDBHelper.cs",
-              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\Classes\\ClsDBHelper.cs",
-              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\Classes\\ClsDBHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "FrmTest.cs",
+              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmTest.cs",
+              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\FrmTest.cs",
+              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmTest.cs",
+              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\FrmTest.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAYwJsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T12:59:13.817Z",
+              "WhenOpened": "2024-07-15T12:05:18.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMedicineType1.cs",
+              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmMedicineType1.cs",
+              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\FrmMedicineType1.cs",
+              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmMedicineType1.cs",
+              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\FrmMedicineType1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAywJAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:58:11.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmEnterDoctor.cs",
-              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmEnterDoctor.cs",
-              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\FrmEnterDoctor.cs",
-              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmEnterDoctor.cs",
-              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\FrmEnterDoctor.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA8wCQAAABHAAAA",
+              "Title": "FrmTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmTest.cs",
+              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\FrmTest.cs",
+              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmTest.cs [Design]",
+              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\FrmTest.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:52:22.911Z"
+              "WhenOpened": "2024-07-15T11:39:28.894Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmEnterDoctor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmEnterDoctor.cs",
-              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\FrmEnterDoctor.cs",
-              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmEnterDoctor.cs [Design]",
-              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\FrmEnterDoctor.cs [Design]",
+              "Title": "ClsDBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\Classes\\ClsDBHelper.cs",
+              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\Classes\\ClsDBHelper.cs",
+              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\Classes\\ClsDBHelper.cs",
+              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\Classes\\ClsDBHelper.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAA0wGYAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:46:17.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmRoom.cs",
-              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmRoom.cs",
-              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\FrmRoom.cs",
-              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmRoom.cs",
-              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\FrmRoom.cs",
-              "ViewState": "AQIAAI0AAAAAmZmZmZkywH0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T12:44:59.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmRoom.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmRoom.cs",
-              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\FrmRoom.cs",
-              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\FrmRoom.cs [Design]",
-              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\FrmRoom.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T12:32:46.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "LuySokmatra_ClinicManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\SMT-CS\\Desktop\\Project\\C#\\LuySokmatra_ClinicManagementSystem\\LuySokmatra_ClinicManagementSystem\\Program.cs",
-              "RelativeToolTip": "LuySokmatra_ClinicManagementSystem\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T11:57:00.556Z",
+              "WhenOpened": "2024-07-15T11:30:37.902Z",
               "EditorCaption": ""
             }
           ]

@@ -102,3 +102,4 @@ C:\Users\SMT-CS\Desktop\Project\LuySokmatra_ClinicManagementSystem\LuySokmatra_C
 C:\Users\SMT-CS\Desktop\Project\LuySokmatra_ClinicManagementSystem\LuySokmatra_ClinicManagementSystem\obj\Debug\LuySokmatra_ClinicManagementSystem.FrmEnterPatientInfo.resources
 C:\Users\SMT-CS\Desktop\Project\C#\LuySokmatra_ClinicManagementSystem\LuySokmatra_ClinicManagementSystem\obj\Debug\LuySokmatra_ClinicManagementSystem.FrmEnterPatientInfo.resources
 C:\Users\SMT-CS\Desktop\Project\C#\LuySokmatra_ClinicManagementSystem\LuySokmatra_ClinicManagementSystem\obj\Debug\LuySokmatra_ClinicManagementSystem.FrmEnterDoctor.resources
+C:\Users\SMT-CS\Desktop\Project\C#\LuySokmatra_ClinicManagementSystem\LuySokmatra_ClinicManagementSystem\obj\Debug\LuySokmatra_ClinicManagementSystem.FrmTest.resources

@@ -17,9 +17,10 @@ namespace LuySokmatra_ClinicManagementSystem
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new FrmLogin());
-            Application.Run(new FrmMainMenu());
+            //Application.Run(new FrmMainMenu());
             //Application.Run(new FrmEnterDoctor());
             //Application.Run(new FrmRoom());
+            Application.Run(new FrmTest());
         }
     }
 }
